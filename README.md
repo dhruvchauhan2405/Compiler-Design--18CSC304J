@@ -1,6 +1,6 @@
 # Compiler-Design-Lab
 
-| S.No | Experiment Name | Link | 
+| S.No | Experiment Name | 
 | --- | --- | --- |
 | 1 | Write a program to implement the Lexical Analyzer |
 | 2 | Write a program to construct a Non Deterministic Finite Automata (NFA) from Regular Expression |
